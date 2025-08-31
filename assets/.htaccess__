@@ -1,0 +1,7 @@
+Order Allow,Deny
+Deny from all
+
+
+<RequireAll>
+  Require all denied
+</RequireAll>
